@@ -27,4 +27,4 @@ changelog:
  		-changed get ipl to automatic ipaddrange
 		-changed some commands from get to scan
 		
-Software built in Python,Builded using pyinstaller
+Software built in Python,Builded using Nuitka 2.8
