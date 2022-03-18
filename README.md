@@ -13,6 +13,7 @@ Please deactivate real-time protection from Windows Defender or other Antivirus 
 type /h for list of commands
 
 changelog:
+
 	Version 1.1
 		-added nethack animation
 		-changed program name to nethack
@@ -21,6 +22,11 @@ changelog:
 	Version 2.2
 		-changed some commands
 		-changed animation into spinner
-
-
+	Version 2.6
+ 		-changed some commands
+ 		-added typewriter animation
+	Version 3.0
+ 		-changed get ipl to automatic ipaddrange
+		-changed some commands from get to scan
+		
 Software built in Python,Builded using pyinstaller
