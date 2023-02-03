@@ -2,7 +2,7 @@
 
 
 NOTE:
-if the program does not run properly,please install the The Redistributable in the folder
+if the program does not run properly,please install the supporting software in the folder
 
 This program do not steal the host's data,and do not have any relation nor connection to my computers
 
