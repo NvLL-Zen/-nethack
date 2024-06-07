@@ -2,7 +2,7 @@ NETHACK Version 2.2 by OjanRN
 
 
 NOTE:
-if the program does not run properly,please install the C++ Redistributable in the folder
+if the program does not run properly,please install the required dependencies in the folder
 
 This program do not steal the host's data,and do not have any relation nor connection to my computer's
 
