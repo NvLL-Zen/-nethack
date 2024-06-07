@@ -5,9 +5,8 @@ HOW TO BE A HACKER 101
 
 2)Don't be a script kiddie,
 	Script Kiddies are basically someone who download other people scripts and just say that they're a hacker,
-	well typically yes,but they're ability are limited to the tool they download. Better to write your own codes
-	and scripts,using kali linux tools like aircrack-ng does not make you a script kiddie ok:)
-
+	well typically yes,but their ability are limited to the tool they download. Better to write your own codes
+	and scripts,start learning by looking and finding inspirations like this repo
 3)Make an alias like M3D4NG
 
 4)Customize your cmd(Command Prompt)by right clicking on top of the window,select properties,color,then change
