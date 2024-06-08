@@ -6,7 +6,7 @@ if the program does not run properly,please install the supporting software in t
 
 This program do not steal the host's data,and do not have any relation nor connection to my computers
 
-OjanRN does not responsible for any user data stolen by anyone
+OjanRN is not responsible for any user data stolen by anyone
 u
 type /h for list of commands
 
